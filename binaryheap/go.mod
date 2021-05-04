@@ -1,3 +1,3 @@
-module github.com/RosyGraph/data-structures/binaryheap
+module github.com/RosyGraph/datastructs/binaryheap
 
 go 1.16
